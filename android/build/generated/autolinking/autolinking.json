@@ -1,20 +1,20 @@
 {
-  "root": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend",
-  "reactNativePath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native",
+  "root": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp",
+  "reactNativePath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native",
   "reactNativeVersion": "0.75",
   "dependencies": {
     "react-native-gesture-handler": {
-      "root": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-gesture-handler",
+      "root": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-gesture-handler",
       "name": "react-native-gesture-handler",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-gesture-handler/RNGestureHandler.podspec",
+          "podspecPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-gesture-handler/RNGestureHandler.podspec",
           "version": "2.20.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-gesture-handler/android",
+          "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-gesture-handler/android",
           "packageImportPath": "import com.swmansion.gesturehandler.RNGestureHandlerPackage;",
           "packageInstance": "new RNGestureHandlerPackage()",
           "buildTypes": [],
@@ -23,7 +23,7 @@
             "RNGestureHandlerButtonComponentDescriptor",
             "RNGestureHandlerRootViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -32,17 +32,17 @@
       }
     },
     "react-native-safe-area-context": {
-      "root": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-safe-area-context",
+      "root": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-safe-area-context",
       "name": "react-native-safe-area-context",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
+          "podspecPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-safe-area-context/react-native-safe-area-context.podspec",
           "version": "4.11.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-safe-area-context/android",
+          "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-safe-area-context/android",
           "packageImportPath": "import com.th3rdwave.safeareacontext.SafeAreaContextPackage;",
           "packageInstance": "new SafeAreaContextPackage()",
           "buildTypes": [],
@@ -51,7 +51,7 @@
             "RNCSafeAreaProviderComponentDescriptor",
             "RNCSafeAreaViewComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -60,17 +60,17 @@
       }
     },
     "react-native-screens": {
-      "root": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-screens",
+      "root": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-screens",
       "name": "react-native-screens",
       "platforms": {
         "ios": {
-          "podspecPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-screens/RNScreens.podspec",
+          "podspecPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-screens/RNScreens.podspec",
           "version": "3.34.0",
           "configurations": [],
           "scriptPhases": []
         },
         "android": {
-          "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-screens/android",
+          "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-screens/android",
           "packageImportPath": "import com.swmansion.rnscreens.RNScreensPackage;",
           "packageInstance": "new RNScreensPackage()",
           "buildTypes": [],
@@ -86,7 +86,7 @@
             "RNSScreenComponentDescriptor",
             "RNSModalScreenComponentDescriptor"
           ],
-          "cmakeListsPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+          "cmakeListsPath": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
           "cxxModuleCMakeListsModuleName": null,
           "cxxModuleCMakeListsPath": null,
           "cxxModuleHeaderName": null,
@@ -256,7 +256,7 @@
         {
           "name": "--path <path>",
           "description": "Path to the React Native project root.",
-          "default": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend"
+          "default": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp"
         },
         {
           "name": "--platform <string>",
@@ -307,8 +307,7 @@
         },
         {
           "name": "--terminal <string>",
-          "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "Apple_Terminal"
+          "description": "Launches the Metro Bundler in a new window using the specified terminal path."
         },
         {
           "name": "--binary-path <string>",
@@ -467,8 +466,7 @@
         },
         {
           "name": "--terminal <string>",
-          "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
-          "default": "Apple_Terminal"
+          "description": "Launches the Metro Bundler in a new window using the specified terminal path."
         },
         {
           "name": "--appId <string>",
@@ -543,7 +541,7 @@
   "assets": [],
   "project": {
     "ios": {
-      "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/ios",
+      "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/ios",
       "xcodeProject": {
         "name": "TelemedicineMobileApp.xcworkspace",
         "path": ".",
@@ -552,7 +550,7 @@
       "assets": []
     },
     "android": {
-      "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/Frontend/android",
+      "sourceDir": "/Users/poovarasan/Documents/Development/Telemedicine-MobileApp/android",
       "appName": "app",
       "packageName": "com.telemedicinemobileapp",
       "applicationId": "com.telemedicinemobileapp",
